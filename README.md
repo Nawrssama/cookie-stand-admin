@@ -14,4 +14,8 @@ in your terminal :
 
 >npm run dev
 
+
 Open http://localhost:3000 that appear on your terminal
+=======
+Open http://localhost:3000 that appear on your terminal
+
